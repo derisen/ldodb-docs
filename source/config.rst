@@ -27,7 +27,7 @@ file in app/config/parameters.yml.
 
      # Router and cookie information
      router.request_context.scheme: http
-     router.request_context.host: 127.0.01
+     router.request_context.host: 127.0.0.1
      router.request_context.base_url: /
 
      # words in a generated excerpt

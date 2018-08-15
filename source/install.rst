@@ -32,7 +32,7 @@ process for installing a Symfony application.
 .. code-block:: sql
 
   create database ldodb;
-  grant all on ldodb.* to btd@localhost;
+  grant all on ldodb.* to ldodb@localhost;
   set password for ldodb@localhost = password('hotpockets');
 
 4. `Install composer`_ if it isn't already installed somewhere.

@@ -13,7 +13,7 @@ A larger aim of the analysis is to understand the global effects of the pictures
 The project is based on Simon Fraser University Library’s outstanding Lake District Collection of rare travel books, a corpus too large for study through traditional means, but small enough to function as a test case for future research on large data sets.
 
 Objectives
-===========
+----------
 Based on the Simon Fraser University *Lake District Collection* of more than 250 rare books dating from 1709 – with its strengths in Lake District travel guides and its unique location in Vancouver, Canada – the larger objectives of the project are:
 
 * to conduct an ecological study of the book within its cultural environment, analyzing the particular ways that ecology maps through time onto geographical space, both local and global;
@@ -21,12 +21,12 @@ Based on the Simon Fraser University *Lake District Collection* of more than 250
 * to prototype digital research tools and methods for use by other humanists working on other cultural materials from different periods.
 
 Lake District
-==============
+-------------
 Since the 1750s, English Lake District scenery has inspired writers and artists, and attracted legions of travelers and tourists. While the region is most famous for its associations with literary figures like William Wordsworth, John Ruskin, and Beatrix Potter, it has also been the site of repeated conflict over cultural heritage and environmental encroachment. In the late nineteenth century, the district came under the stewardship of the National Trust (est. 1895); in 1951, it was designated a national park; in the twenty-first century, a bid is underway for designation as a UNESCO World Heritage site.
 
 
 SFU Lake District Collection
-=============================
+----------------------------
 SFU is home to one of the largest collections of rare books relating to the Lake District in the Northwest of England. The Lake District Collection (LDC) contains more than 250 illustrated first and rare editions dating from 1709, with a concentration in the nineteenth century. Of particular bibliographic interest are the LDC’s many period maps, excellent samples of engraving and illustration techniques and processes, including lithography, chromolithography and photography, as well as ornate bindings.
 
 From its origins as a section of SFU Library’s Wordsworth Collection founded in 1973 by Jared Curtis (professor emeritus of SFU’s English Department and Coordinating Editor of the Cornell University Wordsworth Project), the LDC has grown steadily over the years to achieve a remarkable integrity and uniqueness. In 1989, Professor Mark L. Reed (U North Carolina), a renowned Wordsworth scholar, assessed SFU Library’s Wordsworth Collection and identified as one of its strengths late eighteenth and nineteenth-century guides, tours, and histories concerning the Lake District (Curtis 1999). In the early 2000s, the Library and a team of scholars created an annotated online bibliography of 99 selected books from the LDC.
@@ -35,7 +35,7 @@ Building on this pioneering digital humanities project, the **Lake District Onli
 
 
 Contributors
-==============
+------------
 
 **Director**
 
